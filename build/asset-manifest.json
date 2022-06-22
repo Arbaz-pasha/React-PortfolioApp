@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Netflix-ReactApp/static/css/main.43fc9bcf.css",
+    "main.js": "/Netflix-ReactApp/static/js/main.313640e4.js",
+    "static/media/tools10.png": "/Netflix-ReactApp/static/media/tools10.1ead9cddd6ee0a841bcd.png",
+    "static/media/1.jpg": "/Netflix-ReactApp/static/media/1.9ea662599953acbf8741.jpg",
+    "static/media/ed.jpg": "/Netflix-ReactApp/static/media/ed.f87fc01da819cbfd2637.jpg",
+    "static/media/devSkill10.png": "/Netflix-ReactApp/static/media/devSkill10.98607e408e0d4c002a31.png",
+    "static/media/sideSkill10.png": "/Netflix-ReactApp/static/media/sideSkill10.3ee3146c7d1019a3ed89.png",
+    "static/media/2.jpg": "/Netflix-ReactApp/static/media/2.ad2f359c287f4583cf3e.jpg",
+    "static/media/first.jpg": "/Netflix-ReactApp/static/media/first.dd330b0a1c5654d7dbb3.jpg",
+    "index.html": "/Netflix-ReactApp/index.html",
+    "main.43fc9bcf.css.map": "/Netflix-ReactApp/static/css/main.43fc9bcf.css.map",
+    "main.313640e4.js.map": "/Netflix-ReactApp/static/js/main.313640e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43fc9bcf.css",
+    "static/js/main.313640e4.js"
+  ]
+}
