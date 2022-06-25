@@ -29,9 +29,9 @@ const Footer=()=>{
 
                     <div className="card ">
                         <div className="content-icons">
-                           <a className=" text-decoration-none text-black" target="new_blank" href="https://www.facebook.com/arbaz.pasha.7549"> <FacebookIcon /></a>
-                          <a className=" text-decoration-none text-black" target="new_blank" href="https://www.instagram.com/_arbazpasha222/"> <InstagramIcon /></a> 
-                           <a className=" text-decoration-none text-black" target="new_blank" href="https://www.linkedin.com/in/arbaz-pasha-b15357200/"> <LinkedInIcon /></a> 
+                           <a className="icon-a text-decoration-none text-black" target="new_blank" href="https://www.facebook.com/arbaz.pasha.7549"> <FacebookIcon /></a>
+                          <a className="icon-a text-decoration-none text-black" target="new_blank" href="https://www.instagram.com/_arbazpasha222/"> <InstagramIcon /></a> 
+                           <a className="icon-a text-decoration-none text-black" target="new_blank" href="https://www.linkedin.com/in/arbaz-pasha-b15357200/"> <LinkedInIcon /></a> 
                         </div>
                         <p className=" text-center"> Lets Have A Talk </p>
                         <button className="fbtn text-capitalize">contact me</button>

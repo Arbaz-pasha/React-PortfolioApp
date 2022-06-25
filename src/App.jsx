@@ -18,6 +18,21 @@ function ncards(val)
         title={val.title}
         para={val.para}
         link={val.link}
+
+        cardheading1={val.cardheading1}
+        cardimage1={val.cardimage1}  
+
+        cardheading2={val.cardheading2}
+        cardimage2={val.cardimage2}
+
+        cardheading3={val.cardheading3}
+        cardimage3={val.cardimage3}
+
+        cardheading4={val.cardheading4}
+        cardimage4={val.cardimage4}
+
+        cardheading5={val.cardheading5}
+        cardimage5={val.cardimage5}
     />
     )
 }

@@ -47,13 +47,13 @@ span{
 }
 
 .MuiSvgIcon-root{
-    transform: scale(1.5);
+    transform: scale(1.8);
     margin: 50px;
 }
 
-
-.MuiSvgIcon-roo:hover{
-    transform: scale(1.9)!important;
+.MuiSvgIcon-root:hover{
+    transform: scale(2);
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
 }
 
 
