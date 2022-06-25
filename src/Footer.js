@@ -1,7 +1,6 @@
 import React from "react";
 import '/node_modules/bootstrap/dist/css/bootstrap.min.css'
 import "./footer.css";
-import EmailIcon from '@mui/icons-material/Email';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import FacebookIcon from '@mui/icons-material/Facebook';

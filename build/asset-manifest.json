@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-PortfolioApp/static/css/main.08c48dfd.css",
-    "main.js": "/React-PortfolioApp/static/js/main.4ba16041.js",
+    "main.css": "/React-PortfolioApp/static/css/main.a7e61b98.css",
+    "main.js": "/React-PortfolioApp/static/js/main.a7418b54.js",
     "static/media/3.jpg": "/React-PortfolioApp/static/media/3.47ba90dd163d0ca9bde2.jpg",
     "static/media/tools10.png": "/React-PortfolioApp/static/media/tools10.1ead9cddd6ee0a841bcd.png",
     "static/media/1.jpg": "/React-PortfolioApp/static/media/1.9ea662599953acbf8741.jpg",
@@ -10,13 +10,19 @@
     "static/media/sideSkill10.png": "/React-PortfolioApp/static/media/sideSkill10.3ee3146c7d1019a3ed89.png",
     "static/media/2.jpg": "/React-PortfolioApp/static/media/2.ad2f359c287f4583cf3e.jpg",
     "static/media/first.jpg": "/React-PortfolioApp/static/media/first.dd330b0a1c5654d7dbb3.jpg",
+    "static/media/cooking.png": "/React-PortfolioApp/static/media/cooking.d87f2d42bd87cb9855e8.png",
+    "static/media/camera.png": "/React-PortfolioApp/static/media/camera.a35e3f67849220562dc9.png",
     "static/media/work.png": "/React-PortfolioApp/static/media/work.9ea49b03d0afbefef22d.png",
+    "static/media/sketching.png": "/React-PortfolioApp/static/media/sketching.a266c1d699c538393bab.png",
+    "static/media/basketball.png": "/React-PortfolioApp/static/media/basketball.5a6212180539827a982e.png",
+    "static/media/netlify.jpg": "/React-PortfolioApp/static/media/netlify.ce5c8752acd57b9c3b9d.jpg",
+    "static/media/github.png": "/React-PortfolioApp/static/media/github.3da0486894b515a5d7d8.png",
     "index.html": "/React-PortfolioApp/index.html",
-    "main.08c48dfd.css.map": "/React-PortfolioApp/static/css/main.08c48dfd.css.map",
-    "main.4ba16041.js.map": "/React-PortfolioApp/static/js/main.4ba16041.js.map"
+    "main.a7e61b98.css.map": "/React-PortfolioApp/static/css/main.a7e61b98.css.map",
+    "main.a7418b54.js.map": "/React-PortfolioApp/static/js/main.a7418b54.js.map"
   },
   "entrypoints": [
-    "static/css/main.08c48dfd.css",
-    "static/js/main.4ba16041.js"
+    "static/css/main.a7e61b98.css",
+    "static/js/main.a7418b54.js"
   ]
 }
