@@ -1,9 +1,9 @@
-/* *{
-background-color: aqua;
-} */
+*{
+  width: cover 100%;
+}
 
 section{
-  width: 100% ;
+  width: 100% fit-content;
   height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
@@ -77,7 +77,7 @@ font-weight: bolder;
 
 
 .container-about{
-  background-image: url(../src/images/first.jpg);
+  /* background-image: url(../src/images/first.jpg); */
   margin: 50px;
   /* height: 0vh; */
   display: flex;
@@ -85,6 +85,7 @@ font-weight: bolder;
   align-items: center;
   font-size: small;
   padding: 30px;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
   /* backdrop-filter: blur(18px) saturate(0%);
   -webkit-backdrop-filter: blur(18px) saturate(180%);
   background-color: rgba(255, 255, 255, 0.5px);
@@ -95,7 +96,7 @@ font-weight: bolder;
 .container{
   /* background-image: url(../public/images/1.jpg); */
   /* padding: 20px; */
-  background-image: url(../src/images/2.jpg);
+  /* background-image: url(../src/images/2.jpg); */
   margin: 50px ;
   padding: 30px;
   width: auto;
@@ -154,7 +155,7 @@ font-weight: bolder;
 }
 
 .about-heading{
-  margin-top: 30px;
+  margin-top: 50px;
   margin-bottom: 0;
   /* font-family: none; */
   font-weight: bolder;
@@ -237,9 +238,24 @@ font-weight: bolder;
 
 
 
-@media( max-width:768px ){
+
+
+
+
+
+
+@media( max-width:768px )
+{
+  /* *{
+    width:100% auto;
+  } */
+
+  .homesection{
+    width: 100%;
+  }
+
   section{
-    width: 100% auto;
+    width: 90%;
     height: auto;
   }
 
@@ -258,35 +274,43 @@ font-weight: bolder;
     font-weight: bold;
     margin: auto;
   }
+
   .container{
     display:flow-root;
-    justify-content: baseline;
+    justify-content: center;
     align-content: center;
-    width: 80% !important;
+    width : 90% !important;
     margin: 20px;
     height: auto;
-
+    
+    
   }
 
- 
-  .about .skills{
-
+  #About{
+    width: auto;
+  }
+  .about{
     margin-top: 0;
-    width: auto ;
-    margin: 20px;
-
+    width: 100%;
     border : 1px solid black;
-
-
   }
 
-  .right-div{
+
+
+  .skills{
+    margin-top: 0;
+    width: inherit;
+    margin: 20px;
+  }
+
+  .right-div,.left-div{
    content-visibility: cover;
+   padding: 0;
   }
   
   .skill-images{
    display: none;
-    image-rendering: crisp-edges;
+   image-rendering: crisp-edges;
   }
 
   .cards{
@@ -303,16 +327,17 @@ font-weight: bolder;
   }
 
 
-
-  
-
   .container-about{
     display: flow-root;
     justify-content: center;
     align-items: center;
     width: 80% auto;
-
+    padding: 30px;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+    margin: 10px;
+   
   }
+
 h5{
   margin: 0;
 }

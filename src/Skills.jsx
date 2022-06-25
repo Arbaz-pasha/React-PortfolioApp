@@ -9,6 +9,7 @@ const Skills=(props)=>{
 
 
     return(
+        <>
         <div className="skills">
         <div className="container">
             <div className="cards card1 ">
@@ -22,7 +23,7 @@ const Skills=(props)=>{
 
             <div className="cards card2">
                 <div>
-                        <h5>vs code 💯<img src={require("./images/1.jpg")} style={{width:"20px",height:"20px"}}/></h5>
+                        <h5>vs code 💯<img src={require("./images/1.jpg")} style={{width:"20px",height:"20px"}} alt="not found"/></h5>
                         <h5>Eclih5se 🎱</h5>
                         <h5>Intelli j 😋</h5>
                         <h5>github 🥇</h5>
@@ -89,7 +90,9 @@ const Skills=(props)=>{
 
         </div> */}
         </div>
+        </>
     )
+   
 }
 
 export default Skills

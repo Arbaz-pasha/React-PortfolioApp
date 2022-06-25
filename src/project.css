@@ -1,0 +1,145 @@
+.container-pro{
+    width: inherit;
+    padding: 50px;
+    margin: 30px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: small;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+    }
+
+
+
+.pimg1{
+    width: 60vw;
+    height: 70vh;
+}
+
+.pimg2{
+    justify-content: end;
+}
+
+.img-div{
+    margin:  0 0 100px 0;
+    padding: 0;
+
+}
+
+.containerp{
+    display: flex;
+    padding: 0;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: small;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+    width: inherit;
+    margin: 20px;
+}
+
+
+/* .p-div{
+    display: inline;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+} */
+
+.btnp{
+    margin-top: 30px;
+    background-color: white;
+    font-weight: bold;
+    margin: 20px;
+    margin-left: 40%;
+    height: 10vh;
+   
+}
+
+
+.cards-p{
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: large;
+    width: fit-content;
+    /* max-width: fit-content;
+    padding-right: 0px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media( max-width:768px )
+{
+    .container-pro{
+        display: flow-root;
+        width: inherit;
+        margin-left: 20px;
+        justify-content: center;
+        margin: 0;
+        margin-top: 10px;
+        padding: 20px;
+    }
+
+   .pimg1{
+    margin-top: 10px;
+    width: 65vw;
+    height: 40vh;
+   }
+
+   .pimg2{
+    display: none;
+   }
+
+   .containerp{
+    display: flow-root;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: 0;
+    margin-top: 41px;
+    
+   }
+
+   img{
+    display: list-item;
+    width: fit;
+   }
+
+   .cards-p{
+    max-width: fit-content;
+    padding-right: 0px;
+    margin :40px;
+   }
+
+   .btnp{
+    /* width: inherit; */
+    margin-left: 25%;
+   }
+
+   .project{
+    width: fit-content;
+    margin: 20px;
+   }
+    
+}

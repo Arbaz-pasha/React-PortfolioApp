@@ -1,13 +1,13 @@
 import React from "react";
 import "./index.css"
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 
 const About=()=>{
 
     return(
         <>
-        <div className="about">
+        <div className="about mt-5">
         <h1 className="about-heading text-center text-decoration-underline">About Me </h1>
-        <br/><br/>
             <div className="container-about">
             
                 <div className="right-div ">

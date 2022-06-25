@@ -10,9 +10,11 @@ return(
     <div className="navbar" >
         <h3 className="nav-heading mt-2"> Welcome to my porfolio site</h3>
         <ul className=" buttons">
-            <a className=" text-decoration-none ms-4  active" href="#home">Home</a>
-            <a className=" text-decoration-none ms-4" href="#home">About</a>
-            <a className=" text-decoration-none ms-4" href="#home">Project</a>
+            <a className=" text-decoration-none ms-4  active" href="#Home">Home</a>
+            <a className=" text-decoration-none ms-4" href="#About">About</a>
+            <a className=" text-decoration-none ms-4" href="#skills">Skills</a>
+            <a className=" text-decoration-none ms-4" href="#projects">Project</a>
+
         </ul>
     </div>
 </nav>

@@ -1,0 +1,120 @@
+
+.footer{
+    background-color: rgb(177, 177, 177);
+    padding: 30px;
+    border-radius: 3px;
+}
+
+
+.content-footer{
+    border-bottom: solid 2px ;
+}
+
+.fcontainer{
+    background-color: rgb(177, 177, 177) ;
+   margin: 50px ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card{
+    background-color: inherit;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fbtn{
+    background-color: inherit;
+    margin-top: 30px;
+    width: 100%;
+    margin: 20px;
+    height: 9vh;
+    border: 1px solid black;
+    border-radius: 2px;
+
+}
+
+.fheading{
+    border-top: solid 2px;
+    font-family: auto;
+}
+
+span{
+   margin: auto;
+}
+
+.MuiSvgIcon-root{
+    transform: scale(1.5);
+    margin: 50px;
+}
+
+
+.MuiSvgIcon-roo:hover{
+    transform: scale(1.9)!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media( max-width:768px ){
+    .footer{
+        margin: 0;
+    }
+
+    .content-footer{
+        margin: 50px 0 50px 0;
+    }
+
+    .fcontainer{
+    background-color: rgb(177, 177, 177) ;
+    margin: 0 ;
+    margin-top: 50px;
+      display: flow-root;
+      justify-content: space-between;
+      align-items: center;
+      margin: 50px;
+    }
+    
+    .card{
+        background-color: inherit;
+        border: none;
+        width: 25%;
+        display: inline;
+        justify-content: center;
+        align-items: center;
+      
+    }
+
+
+    .fbtn{
+        width: 100%;
+        margin: 0;
+    }
+
+    .cardv{
+        display: none;
+    }
+
+    .content-icons{
+      display: flex;
+      margin-left: -90px;
+    }
+
+
+}
