@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://salmon-forest-0e0c0d110.1.azurestaticapps.net",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
