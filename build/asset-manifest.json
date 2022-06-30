@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.36a64a0a.css",
-    "main.js": "/static/js/main.514057fe.js",
-    "static/media/3.jpg": "/static/media/3.47ba90dd163d0ca9bde2.jpg",
-    "static/media/tools10.png": "/static/media/tools10.1ead9cddd6ee0a841bcd.png",
-    "static/media/1.jpg": "/static/media/1.9ea662599953acbf8741.jpg",
-    "static/media/ed.jpg": "/static/media/ed.f87fc01da819cbfd2637.jpg",
-    "static/media/devSkill10.png": "/static/media/devSkill10.98607e408e0d4c002a31.png",
-    "static/media/sideSkill10.png": "/static/media/sideSkill10.3ee3146c7d1019a3ed89.png",
-    "static/media/2.jpg": "/static/media/2.ad2f359c287f4583cf3e.jpg",
-    "static/media/first.jpg": "/static/media/first.dd330b0a1c5654d7dbb3.jpg",
-    "static/media/cooking.png": "/static/media/cooking.d87f2d42bd87cb9855e8.png",
-    "static/media/camera.png": "/static/media/camera.a35e3f67849220562dc9.png",
-    "static/media/work.png": "/static/media/work.9ea49b03d0afbefef22d.png",
-    "static/media/sketching.png": "/static/media/sketching.a266c1d699c538393bab.png",
-    "static/media/basketball.png": "/static/media/basketball.5a6212180539827a982e.png",
-    "static/media/netlify.jpg": "/static/media/netlify.ce5c8752acd57b9c3b9d.jpg",
-    "static/media/github.png": "/static/media/github.3da0486894b515a5d7d8.png",
-    "index.html": "/index.html",
-    "main.36a64a0a.css.map": "/static/css/main.36a64a0a.css.map",
-    "main.514057fe.js.map": "/static/js/main.514057fe.js.map"
+    "main.css": "./static/css/main.c351aa6b.css",
+    "main.js": "./static/js/main.3afae0ad.js",
+    "static/media/3.jpg": "./static/media/3.47ba90dd163d0ca9bde2.jpg",
+    "static/media/tools10.png": "./static/media/tools10.1ead9cddd6ee0a841bcd.png",
+    "static/media/1.jpg": "./static/media/1.9ea662599953acbf8741.jpg",
+    "static/media/ed.jpg": "./static/media/ed.f87fc01da819cbfd2637.jpg",
+    "static/media/devSkill10.png": "./static/media/devSkill10.98607e408e0d4c002a31.png",
+    "static/media/sideSkill10.png": "./static/media/sideSkill10.3ee3146c7d1019a3ed89.png",
+    "static/media/2.jpg": "./static/media/2.ad2f359c287f4583cf3e.jpg",
+    "static/media/first.jpg": "./static/media/first.dd330b0a1c5654d7dbb3.jpg",
+    "static/media/cooking.png": "./static/media/cooking.d87f2d42bd87cb9855e8.png",
+    "static/media/camera.png": "./static/media/camera.a35e3f67849220562dc9.png",
+    "static/media/work.png": "./static/media/work.9ea49b03d0afbefef22d.png",
+    "static/media/sketching.png": "./static/media/sketching.a266c1d699c538393bab.png",
+    "static/media/basketball.png": "./static/media/basketball.5a6212180539827a982e.png",
+    "static/media/netlify.jpg": "./static/media/netlify.ce5c8752acd57b9c3b9d.jpg",
+    "static/media/github.png": "./static/media/github.3da0486894b515a5d7d8.png",
+    "index.html": "./index.html",
+    "main.c351aa6b.css.map": "./static/css/main.c351aa6b.css.map",
+    "main.3afae0ad.js.map": "./static/js/main.3afae0ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.36a64a0a.css",
-    "static/js/main.514057fe.js"
+    "static/css/main.c351aa6b.css",
+    "static/js/main.3afae0ad.js"
   ]
 }
