@@ -41,11 +41,12 @@ const App=()=>{
 
     return(
         <>
+        <h1>hii its work</h1>
         <section className="homesection" id="Home">
         <Navbar/>
         <Frontpage/>
         </section>
-
+        
         <section className="about-page" id="About">
         <About/>
         </section>
